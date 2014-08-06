@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Woocommerce Pizza Takeaway
-Plugin URI: http://developers.overplace.com
+Plugin URI: http://webglow.it
 Description: Estensione Woocommerce per la gestione delle ordinazioni di pizze
 Version: 0.0.1
 Author: Francesco Marchesini
-Author URI: http://www.overplace.com
+Author URI: http://www.webglow.it
 */
 
 /**
