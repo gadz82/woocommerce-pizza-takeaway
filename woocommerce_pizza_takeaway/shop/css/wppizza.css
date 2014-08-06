@@ -1,0 +1,7 @@
+.box_ingredienti{width:100%;float:left;clear:both;margin-bottom:10px;border:1px solid #ccc}
+.box_ingredienti #container_iextra{display:none}
+.label_ingredienti{width:100%;float:left;margin-bottom:10px;font-weight:bold;text-align:center;border-bottom:1px solid #ccc}
+.label_ingredienti #label_ingredienti_extra,.label_ingredienti #label_ingredienti_base{float:left;width:50%;cursor:pointer; }
+.label_ingredienti .label_selected{background-color:#F3F3F3}
+
+.container_ingredienti{float:left}
